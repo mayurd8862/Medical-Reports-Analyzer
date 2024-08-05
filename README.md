@@ -1,4 +1,4 @@
-# 📋 Medical Report Analyzer
+# 🩺 Medical Reports Analyzer
 
 This project is a Streamlit application that analyzes medical reports in PDF or image format to provide insights. It uses the Google Gemini language model for natural language processing.
 
