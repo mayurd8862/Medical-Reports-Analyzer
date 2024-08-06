@@ -33,14 +33,6 @@ if uploaded_file is not None:
 
     Provide the output in a clear, structured format with fields deemed relevant and appropriate to the use case. Ensure the extracted data is accurate and appropriate for validation by health professionals.
 
-    Example fields to include:
-    - Diagnosis: 
-    - Age: 
-    - Medical History: 
-    - Medications: 
-    - Test Results: 
-
-    Ensure data privacy and security in your output.
     """
     
     # Invoke the language model
