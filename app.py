@@ -3,6 +3,8 @@ import google.generativeai as genai
 import PIL.Image
 
 
+st.title("🩺 Medical Reports Analyzer")
+
 # genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 genai.configure(api_key=st.secrets.GOOGLE_API_KEY)
 
