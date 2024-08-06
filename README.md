@@ -66,4 +66,4 @@ System that takes your Medical Report as input and provides insights based on th
 3. **View the insights and analysis provided by the application.**
 
 ---
-[Click here](https://jsonparsor.streamlit.app/) to use the web application.
+[Click here](https://medical-reports-analyzer.streamlit.app/) to use the web application.
